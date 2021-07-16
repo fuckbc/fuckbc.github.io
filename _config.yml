@@ -986,4 +986,4 @@ static_prefix:
 
   hint: /lib/hint/
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-dinky
